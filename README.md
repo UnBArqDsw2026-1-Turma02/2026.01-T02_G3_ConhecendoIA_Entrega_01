@@ -1,10 +1,8 @@
-# RepositorioTemplate
+# ConhecendoIA
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+## Sobre
 
-## Introdução
-
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+O ConhecendoIA é um projeto voltado à divulgação de conhecimentos sobre Inteligência Artificial de forma acessível, interativa e organizada. A proposta é oferecer uma plataforma capaz de apresentar conteúdos relevantes sobre temas como Redes Neurais, Aprendizado de Máquina, Aprendizado Profundo e Ciência de Dados, entre outros. A ideia central é facilitar o entendimento desses conceitos, conectando teoria e prática em um ambiente intuitivo e educativo.
 
 ## Tecnologia
 
