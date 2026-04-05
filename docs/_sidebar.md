@@ -1,7 +1,3 @@
-<!-- docs/_sidebar.md -->
-
-- [Sobre](./README.md)
-
 - **Base**
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
     - [1.1. Design Sprint](./Base/1.1.DesignSprint.md)
@@ -30,4 +26,3 @@
         - [1. Ata-01/04/2026](./Base/Atas/Ata-01-04-2026.md)
         - [2. Ata-02/04/2026](./Base/Atas/Ata-02-04-2026.md)
         - [3. Ata-05/04/2026](./Base/Atas/Ata-05-04-2026.md)
-
