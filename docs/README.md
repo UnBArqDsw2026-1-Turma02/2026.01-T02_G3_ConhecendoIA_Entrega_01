@@ -44,5 +44,5 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 | Versão | Data       | Descrição                                | Autor            | Revisor          |
 |--------|------------|------------------------------------------|------------------|------------------|
-| 1.0    | 03/04/2026 | Modificação inicial do documento             | [Vinícius Ribeiro](https://github.com/viniiribeiro) | [Aguardando Revisão]() |
+| 1.0    | 03/04/2026 | Modificação inicial do documento             | [Vinícius Ribeiro](https://github.com/viniiribeiro) | [Ingrid Alves](https://github.com/alvesingrid) |
 
