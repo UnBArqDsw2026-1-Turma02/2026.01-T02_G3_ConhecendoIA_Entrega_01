@@ -4,7 +4,6 @@
 
 - **Base**
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
-    - [1.1. Design Sprint](./Base/1.1.DesignSprint.md)
       - [1.1.1. Unpack: Mapa Mental](./Base/1.1.1.UnpackMapaMental.md)
       - [1.1.2. Sketch: Rich Pictures](./Base/1.1.2.SketchRichPictures.md)
       - [1.1.3. Decision: Storyboarding](./Base/1.1.3.DecisionStoryboard.md)
