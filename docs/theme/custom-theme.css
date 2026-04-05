@@ -66,3 +66,29 @@ a:hover {
 .sidebar-nav li a {
   transition: all 0.2s ease-in-out;
 }
+
+/* Light Mode Overrides */
+/* Light Mode Overrides */
+:root.light-mode {
+  --base-background-color: #ffffff;
+  --base-color: #333333;
+  --heading-h1-color: #111111;
+  --heading-h2-color: #222222;
+  --sidebar-background: #f4f4f4;
+  --sidebar-name-color: #111111;
+  --sidebar-nav-link-color: #555555;
+  --code-theme-background: #f8f8f8;
+  --code-theme-text: #333333;
+  --theme-color: #0052cc;
+  --link-color: #0052cc;
+  --sidebar-nav-link-color--active: #0052cc;
+  --sidebar-nav-link-border-color--active: #0052cc;
+}
+
+/* Light Mode H1 Gradient */
+:root.light-mode #main h1 {
+  background: linear-gradient(90deg, #0052cc 0%, #7a00d9 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

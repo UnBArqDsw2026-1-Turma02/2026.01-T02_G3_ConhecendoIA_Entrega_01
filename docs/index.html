@@ -14,12 +14,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
   
   <!-- Docsify Themeable (Dark Mode Base) -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="dark">
+  <link rel="stylesheet" id="theme-css" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="dark">
 
   <!-- Custom AI Style: Dark Gray/Black Base with Neon Cyan/Purple accents -->
-  <link rel="stylesheet" href="./assets/custom-theme.css">
+  <link rel="stylesheet" href="./theme/custom-theme.css">
 </head>
 <body>
+  <button id="theme-toggle" style="position: fixed; top: 15px; right: 20px; z-index: 1000; background: transparent; border: 1px solid var(--theme-color); border-radius: 5px; padding: 5px 10px; cursor: pointer; font-size: 1.2em; box-shadow: 0 0 10px rgba(0, 243, 255, 0.4); transition: all 0.2s;">🌓</button>
   <div id="app"></div>
   <script>    window.$docsify = {
       loadSidebar: true,
@@ -29,5 +30,6 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="./theme/theme-toggle.js"></script>
 </body>
 </html>
