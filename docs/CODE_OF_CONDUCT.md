@@ -14,10 +14,13 @@ O **ConhecendoIA** visa ser um ambiente saudável e acolhedor para todos. Ao par
 
 ### Responsabilidades
 Os mantenedores do projeto são responsáveis por esclarecer os padrões de comportamento aceitável e tomarão as medidas corretivas apropriadas para garantir a integridade da comunidade.
-```
 
+
+## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 05/04/2026 | Criação do documento| [Ingrid Alves](https://github.com/alvesingrid) | [Guilherme Gusmão ](https://github.com/gusmoles) |
 
-[Ex. de código de conduta](https://github.com/DNXLabs/terraform-aws-ecs/blob/master/CODE_OF_CONDUCT.md)
+### Referências
+
+>[Ex. de código de conduta](https://github.com/DNXLabs/terraform-aws-ecs/blob/master/CODE_OF_CONDUCT.md)

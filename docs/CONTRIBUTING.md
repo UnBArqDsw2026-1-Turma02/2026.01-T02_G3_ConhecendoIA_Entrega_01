@@ -1,8 +1,4 @@
-# Contributing
-
 ## Como Contribuir
-
-Contribuições tornam a comunidade open source um lugar incrível para aprender e criar. Qualquer ajuda é **muito apreciada**.
 
 1. **Faça um Fork** do projeto.
 2. **Crie uma Branch** para sua Feature:
@@ -24,10 +20,11 @@ Contribuições tornam a comunidade open source um lugar incrível para aprender
 * Otimização de performance no carregamento das páginas.
 * Novas sugestões de categorias para o fórum.
 
----
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 05/04/2026 | Criação do documento| [Ingrid Alves](https://github.com/alvesingrid) | [Guilherme Gusmão ](https://github.com/gusmoles) |
 
-[Ex de contibuting](https://github.com/DNXLabs/terraform-aws-ecs/blob/master/CONTRIBUTING.md)
+### Referências
+
+>[Ex de contibuting](https://github.com/DNXLabs/terraform-aws-ecs/blob/master/CONTRIBUTING.md)
