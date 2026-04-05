@@ -1,0 +1,155 @@
+.landing {
+  height: 100vh;
+  background-color: #010409;
+  color: white;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Inter', sans-serif;
+  perspective: 1200px;
+}
+
+.hero {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 24px;
+  position: relative;
+  z-index: 10;
+}
+
+.bgImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.3;
+  z-index: 1;
+  filter: saturate(1.5) contrast(1.2);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle at center, transparent 0%, #020617 80%);
+  z-index: 2;
+}
+
+.title {
+  font-size: clamp(48px, 8vw, 96px);
+  font-weight: 900;
+  margin-bottom: 24px;
+  background: linear-gradient(135deg, #22D3EE 0%, #818CF8 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.04em;
+  line-height: 1.1;
+}
+
+.subtitle {
+  font-size: clamp(18px, 2vw, 24px);
+  color: #94A3B8;
+  max-width: 700px;
+  margin-bottom: 48px;
+  line-height: 1.6;
+}
+
+.cta {
+  background: linear-gradient(135deg, #22D3EE 0%, #0891B2 100%);
+  color: #020617;
+  padding: 18px 48px;
+  border-radius: 100px;
+  font-weight: 800;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  box-shadow: 0 0 30px rgba(34, 211, 238, 0.4);
+  transition: all 0.3s ease;
+}
+
+.cta:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 50px rgba(34, 211, 238, 0.6);
+}
+
+.neuralContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.node {
+  position: absolute;
+  background: #22D3EE;
+  border-radius: 50%;
+  mix-blend-mode: plus-lighter;
+}
+
+.streak {
+  position: absolute;
+  height: 2px;
+  background: linear-gradient(90deg, #22D3EE, transparent);
+  border-radius: 100px;
+  mix-blend-mode: plus-lighter;
+  opacity: 0.6;
+}
+
+.vortexLayer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-style: preserve-3d;
+}
+
+.features {
+  display: none;
+}
+
+.neuralTrail {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.trailParticle {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: #22D3EE;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #22D3EE, 0 0 20px #22D3EE;
+  mix-blend-mode: plus-lighter;
+  pointer-events: none;
+}
+
+.glowText {
+  transition: all 0.4s ease;
+}
+
+.glowText:hover {
+  text-shadow: 0 0 20px #22D3EE, 0 0 40px #22D3EEAA;
+  transform: scale(1.02);
+}

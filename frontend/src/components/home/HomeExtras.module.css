@@ -1,0 +1,105 @@
+.aiBanner {
+  background: linear-gradient(135deg, #2D3748 0%, #1A202C 100%);
+  border-radius: var(--radius-lg);
+  padding: 32px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.aiBanner::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(124, 58, 237, 0.1) 0%, transparent 70%);
+  z-index: 1;
+}
+
+.aiContent {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  z-index: 2;
+}
+
+.aiIcon {
+  background: linear-gradient(135deg, #7C3AED 0%, #4C1D95 100%);
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 20px rgba(124, 58, 237, 0.4);
+}
+
+.aiText h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.aiText p {
+  font-size: 14px;
+  color: #A0AEC0;
+  max-width: 450px;
+}
+
+.aiBtn {
+  background-color: #E2E8F0;
+  color: #2D3748;
+  padding: 10px 20px;
+  border-radius: var(--radius-md);
+  font-weight: 700;
+  font-size: 13px;
+  position: relative;
+  z-index: 2;
+}
+
+.aiBtn:hover {
+  background-color: white;
+  transform: translateY(-2px);
+}
+
+.footer {
+  margin-top: 80px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.footerLinks {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  margin-bottom: 24px;
+}
+
+.footerLink {
+  font-size: 12px;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.footerLink:hover {
+  color: var(--primary);
+}
+
+.footerBrand {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-main);
+  margin-bottom: 8px;
+}
+
+.copyright {
+  font-size: 11px;
+  color: var(--text-muted);
+}
