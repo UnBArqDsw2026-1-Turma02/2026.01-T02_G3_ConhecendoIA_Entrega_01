@@ -1,0 +1,68 @@
+:root {
+  /* Base Colors */
+  --base-color: #c9d1d9;             /* Light gray/white text */
+  --base-background-color: #0b0c10;    /* Deep dark gray/black */
+  
+  /* Theme (Neon Cyan focus) */
+  --theme-color: #00f3ff;
+  --theme-hue: 183;
+  --theme-saturation: 100%;
+  --theme-lightness: 50%;
+  
+  /* Typography */
+  --base-font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --base-font-size: 16px;
+  --code-font-family: 'Fira Code', Consolas, Monaco, monospace;
+  --heading-h1-color: #ffffff;
+  --heading-h2-color: #e6edf3;
+  --heading-h1-font-weight: 700;
+  
+  /* Links */
+  --link-color: #00f3ff;
+  --link-text-decoration: none;
+  --link-text-decoration--hover: underline;
+  
+  /* Sidebar */
+  --sidebar-background: #12141a;      /* Slightly lighter than base */
+  --sidebar-name-color: #ffffff;
+  --sidebar-nav-link-color: #8b949e;
+  --sidebar-nav-link-color--active: #00f3ff;
+  --sidebar-nav-link-border-color--active: #00f3ff;
+
+  /* Selection */
+  --selection-color: #ffffff;
+  --selection-background: rgba(0, 243, 255, 0.3);
+  
+  /* Quotes / Alerts */
+  --blockquote-border-color: #bf00ff; /* Purple accent */
+  --blockquote-background: rgba(191, 0, 255, 0.05);
+  
+  /* Code Blocks */
+  --code-theme-background: #010409;
+  --code-theme-text: #c9d1d9;
+}
+
+/* Glow effect on hover for links */
+a:hover {
+  text-shadow: 0 0 8px rgba(0, 243, 255, 0.6);
+  transition: text-shadow 0.3s ease;
+}
+
+/* Gradient Text for Main Headings */
+#main h1 {
+  background: linear-gradient(90deg, #00f3ff 0%, #bf00ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.5em;
+}
+
+/* Logo Image Style */
+.sidebar .app-name img {
+  filter: drop-shadow(0 0 10px rgba(0, 243, 255, 0.5));
+}
+
+/* Smooth Transitions */
+.sidebar-nav li a {
+  transition: all 0.2s ease-in-out;
+}
