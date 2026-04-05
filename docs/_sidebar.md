@@ -5,7 +5,28 @@
 - **Base**
   - [1. Desenho de Software (Base)](./Base/1.Base.md)
     - [1.1. Design Sprint](./Base/1.1.DesignSprint.md)
+      - [1.1.1. Unpack: Mapa Mental](./Base/1.1.1.UnpackMapaMental.md)
+      - [1.1.2. Sketch: Rich Pictures](./Base/1.1.2.SketchRichPictures.md)
+      - [1.1.3. Decision: Storyboarding](./Base/1.1.3.DecisionStoryboard.md)
+      - [1.1.4. Prototype: Protótipo](./Base/1.1.4.PrototypePrototipo.md)
+      - [1.1.5. Test: Validação](./Base/1.1.5.TestValidacao.md)
+    -**Requisitos**
+      - [1.1.6. Instrospecção](./Base/1.1.6.Instrospecção.md)
+      - [1.1.7. História de usuarios](./Base/1.1.7.HistoriaDeUsuarios.md)
     - [1.2. Artefato Generalista](./Base/1.2.ArtefatoGeneralista.md)
+      - [1.2.1. Léxico](./Base/1.2.1.Lexico.md)
+      - [1.2.2. 5W2H](./Base/1.2.2.5W2H.md)
+      - [1.2.3. Rich Picture](./Base/1.2.3.RichPicture.md)
+      - [1.2.4. Diagrama causa e efeito](./Base/1.2.4.DiagramaCausaEfeito.md)
+      - [1.2.5. Glossário](./Base/1.2.5.Glossario.md)
     - [1.3. Modelagem BPMN](./Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](./Base/1.5.IniciativasExtras.md)
+      -[1.5.1. Ferramentas](./Base/1.5.1.Ferramentas.md)
+      -[1.5.2. Cronograma](./Base/1.5.2.Cronograma.md)
+      -[1.5.3. Heatmap](./Base/1.5.3.Heatmap.md)
+      -**Atas**
+       -[1. Ata-01/04/2026](./Base/Atas/Ata-01-04-2026.md)
+       -[2. Ata-02/04/2026](./Base/Atas/Ata-02-04-2026.md)
+       -[3. Ata-05/04/2026](./Base/Atas/Ata-05-04-2026.md)
+
