@@ -13,6 +13,7 @@
     - **Requisitos**
       - [1.1.6. Instrospecção](./Base/1.1.6.Instrospecção.md)
       - [1.1.7. História de usuarios](./Base/1.1.7.HistoriaDeUsuarios.md)
+      - [1.1.8. Matriz de Priorização (MoSCoW)](./Base/1.1.8.Moscow.md)
     - [1.2. Artefato Generalista](./Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. Léxico](./Base/1.2.1.Lexico.md)
       - [1.2.2. 5W2H](./Base/1.2.2.5W2H.md)
