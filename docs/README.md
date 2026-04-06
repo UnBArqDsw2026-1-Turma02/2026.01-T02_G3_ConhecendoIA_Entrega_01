@@ -27,22 +27,36 @@ Este repositório reúne a documentação e os artefatos produzidos ao longo do 
 O projeto está sendo desenvolvido pelo Grupo 03 da disciplina de Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano, no primeiro semestre letivo de 2026, na Universidade de Brasília (UnB).
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+### Mapa Mental
+![Mapa Mental](./assets/unpack-map.jpeg)
+
+### Rich Picture
+![Rich Picture](./assets/RichPicture.png)
+
+### Diagrama de Causa e Efeito (1)
+![Diagrama de Causa e Efeito 1](./assets/diagrama1.jpeg)
+
+### Diagrama de Causa e Efeito (2)
+![Diagrama de Causa e Efeito 2](./assets/diagrama2.jpeg)
+
+### Protótipo de Alta Fidelidade
+![Protótipo de Alta Fidelidade](./assets/Prototipo.png)
+
+### Modelagem BPMN: Scrum
+![Modelagem BPMN: Scrum](./assets/BPMN_Scrum.jpeg)
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+( X ) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 ### Histórico de Versão
 
 | Versão | Data       | Descrição                                | Autor            | Revisor          |
 |--------|------------|------------------------------------------|------------------|------------------|
 | 1.0    | 03/04/2026 | Modificação inicial do documento             | [Vinícius Ribeiro](https://github.com/viniiribeiro) | [Ingrid Alves](https://github.com/alvesingrid) |
-
+| 1.1    | 06/04/2026 | Adição dos screenshots da primeira entrega | [Vinícius Ribeiro](https://github.com/viniiribeiro) | [Ingrid Alves](https://github.com/alvesingrid) |
