@@ -59,4 +59,4 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 | Versão | Data       | Descrição                                | Autor            | Revisor          |
 |--------|------------|------------------------------------------|------------------|------------------|
 | 1.0    | 03/04/2026 | Modificação inicial do documento             | [Vinícius Ribeiro](https://github.com/viniiribeiro) | [Ingrid Alves](https://github.com/alvesingrid) |
-| 1.1    | 06/04/2026 | Adição dos screenshots da primeira entrega | [Vinícius Ribeiro](https://github.com/viniiribeiro) | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1    | 05/04/2026 | Adição dos screenshots da primeira entrega | [Vinícius Ribeiro](https://github.com/viniiribeiro) | [Ingrid Alves](https://github.com/alvesingrid) |
