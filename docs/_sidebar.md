@@ -10,7 +10,7 @@
       - [1.1.3. Decision: Storyboard](./Base/1.1.3.DecisionStoryboard.md)
       - [1.1.4. Prototype: Protótipo](./Base/1.1.4.PrototypePrototipo.md)
       - [1.1.5. Test: Validação](./Base/1.1.5.Validacao.md)
-    - **Requisitos**
+    - Requisitos
       - [1.1.6. Instrospecção](./Base/1.1.6.Instrospecção.md)
       - [1.1.7. História de usuarios](./Base/1.1.7.HistoriaDeUsuarios.md)
       - [1.1.8. Matriz de Priorização (MoSCoW)](./Base/1.1.8.Moscow.md)
@@ -30,9 +30,24 @@
       - [1.5.1. Ferramentas](./Base/1.5.1.Ferramentas.md)
       - [1.5.2. Cronograma](./Base/1.5.2.Cronograma.md)
       - [1.5.3. Heatmap](./Base/1.5.3.Heatmap.md)
-      - **Atas**
+      - Atas
         - [1. Ata-01/04/2026](./Base/Atas/Ata-01-04-2026.md)
         - [2. Ata-02/04/2026](./Base/Atas/Ata-02-04-2026.md)
         - [3. Ata-03/04/2026](./Base/Atas/Ata-03-04-2026.md)
         - [4. Ata-04/04/2026](./Base/Atas/Ata-04-04-2026.md)
         - [5. Ata-05/04/2026](./Base/Atas/Ata-05-04-2026.md)
+
+- **Modelagem**
+  - [2. Desenho de Software (Modelagem)](./Modelagem/2.Modelagem.md)
+    - [2.1 Modelagem Estática](./Modelagem/2.1ModelagemEstatica.md)
+      - [2.1.1 Diagrama de Classes](./Modelagem/2.1.1DiagramadeClasses.md)
+      - [2.1.2 Diagrama de Componentes](./Modelagem/2.1.2DiagramadeComponentes.md)
+    - [2.2 Modelagem Dinâmica](./Modelagem/2.2ModelagemDinamica.md)
+      - [2.2.1 Diagrama de Estados](./Modelagem/2.2.1DiagramadeEstados.md)
+      - [2.2.2 Diagrama de Atividades](./Modelagem/2.2.2DiagramadeAtividades.md)
+    - [2.3 Modelagem Organizacional](./Modelagem/2.3ModelagemOrganizacional.md)
+      - [2.3.1 Casos de Uso](./Modelagem/2.3.1CasosdeUso.md)
+      - [2.3.2 Diagrama de Pacotes](./Modelagem/2.3.2DiagramadePacotes.md)
+    - [2.4 Participações](./Modelagem/2.4Participacoes.md)
+    - [2.5 Iniciativas Extras](./Modelagem/2.5IniciativasExtras.md)
+
